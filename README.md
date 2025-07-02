@@ -106,7 +106,7 @@ A fully responsive, role-based Dental Center Management system built with *React
 ## 👨‍💻 Developed By
 
 **Jay Patel**
-[GitHub]([https://github.com/your-username](https://github.com/Jaypatel0924])
+[GitHub]([https://github.com/Jaypatel0924])
 
 ---
 
