@@ -61,4 +61,64 @@ A fully responsive, role-based Dental Center Management system built with *React
 
 ---
 
-## 📂 Folder Structure
+## ✅ Completed Checklist
+
+* [x] Admin & Patient login system
+* [x] Role-based route protection
+* [x] Patient CRUD
+* [x] Appointment management with file uploads
+* [x] KPI Dashboard
+* [x] Calendar view
+* [x] Patient-only view
+* [x] Fully responsive layout
+* [x] Deployed on Vercel/Netlify
+* [x] GitHub repo with meaningful commits
+
+---
+
+## ✨ Bonus Ideas (Optional Enhancements)
+
+* Search & filter in patient/appointment lists
+* Pagination or infinite scroll
+* Light/Dark mode toggle
+* Drag-and-drop calendar appointments
+
+---
+
+## 🧠 Technical Decisions
+
+* Used **Context API** over Redux for simplicity and local-only state
+* Stored data structures in `localStorage` with unique IDs
+* File uploads stored as base64/Blob URLs to comply with no-backend constraint
+* Separated logic into custom hooks and reusable components
+
+---
+
+## ⚠ Limitations
+
+* No backend integration (as per requirement)
+* No real authentication or encryption
+* Data resets on browser clear
+
+---
+
+## 📧 Submission Info
+
+* Deployed Link and GitHub repo sent to: `hr@entnt.in`
+
+---
+
+## 👨‍💻 Developed By
+
+**Jay Patel**
+[GitHub]([https://github.com/your-username](https://github.com/Jaypatel0924)
+
+---
+
+> 🔒 *Note: This is a technical assessment project and not intended for production use.*
+
+
+
+---
+
+
