@@ -110,6 +110,30 @@ A fully responsive, role-based Dental Center Management system built with *React
 
 ---
 
+
+## 🚀 Getting Started
+
+### 1. Clone Repo
+
+bash
+git clone https://github.com/Jaypatel0924/Dental-Center-Management-Frontend.git
+cd ship-dashboard
+
+
+### 2. Install Dependencies
+
+bash
+npm install
+
+
+### 3. Run Locally
+
+bash
+npm run dev
+
+
+---
+
 > 🔒 *Note: This is a technical assessment project and not intended for production use.*
 
 
