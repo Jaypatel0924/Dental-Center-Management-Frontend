@@ -117,7 +117,7 @@ A fully responsive, role-based Dental Center Management system built with *React
 
 bash
 git clone https://github.com/Jaypatel0924/Dental-Center-Management-Frontend.git
-cd ship-dashboard
+cd Dental-dashboard
 
 
 ### 2. Install Dependencies
