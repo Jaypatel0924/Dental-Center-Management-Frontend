@@ -6,7 +6,7 @@ A fully responsive, role-based Dental Center Management system built with *React
 
 ## 🚀 Live Demo
 
-🌐 *Deployed Link:* [View Application](https://your-deployed-app-link.com](https://dental-center-management-frontend.vercel.app/)  
+🌐 *Deployed Link:* [View Application] (https://dental-center-management-frontend.vercel.app/](https://dental-center-management-frontend.vercel.app)
 💻 *GitHub Repository:* [View Code] (https://github.com/Jaypatel0924/Dental-Center-Management-Frontend)
 
 ---
